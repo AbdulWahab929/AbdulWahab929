@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulWahab929
-- 👀 I’m interested in Puthon Programming and Web Development
+- 👀 I’m interested in Python Programming and Web Development
 - 🌱 I’m currently learning AI based Enmoji
 - 💞️ I’m looking to collaborate on my FYP that id AI based Realtime face emoji creator
 - 📫 You can reach me via my email address (aw97671@gmail.com)
